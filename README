@@ -1,3 +1,16 @@
+Fork of dwm (https://git.suckless.org/dwm/)
+
+Patch(es):
+- cfacts: https://dwm.suckless.org/patches/cfacts/
+- fixborders: https://dwm.suckless.org/patches/alpha/
+- inplacerotate: https://dwm.suckless.org/patches/inplacerotate/
+
+Credits:
+The colours used in this configuration are taken from Protesilaos Stavrou's
+Modus Vivendi (https://gitlab.com/protesilaos/modus-themes/) for GNU Emacs.
+
+Original README text:
+
 dwm - dynamic window manager
 ============================
 dwm is an extremely fast, small, and dynamic window manager for X.
